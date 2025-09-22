@@ -8,7 +8,7 @@ public class DBConn {
 
     private static final String URL = "jdbc:mysql://localhost:3306/escuela1?useUnicode=true&serverTimezone=UTC";
     private static final String USER = "root";
-    private static final String PASSWORD = "ramos123mimi"; // <-- cambia aquí si tu clave es otra
+    private static final String PASSWORD = "**************"; // <-- cambia aquí si tu clave es otra
     private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
 
     static {
